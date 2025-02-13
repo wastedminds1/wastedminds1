@@ -32,7 +32,7 @@
 
 ## 📫 Kontakt  
 📧 E-Mail: [merlin.hellbach@icloud.com](mailto:merlin.hellbach@icloud.com)  
-💼 LinkedIn: [[linkedin.com/in/merlin-hellbach](https://www.linkedin.com/in/merlin-hellbach-47497024b) ] 
+💼 LinkedIn: [[linkedin.com/in/merlin-hellbach](https://www.linkedin.com/in/merlin-hellbach-47497024b)] 
  
 
 ---
