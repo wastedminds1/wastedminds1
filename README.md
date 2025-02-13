@@ -31,8 +31,8 @@
 ---
 
 ## 📫 Kontakt  
-📧 E-Mail: [deinemail@email.com](mailto:merlin.hellbach@icloud.com)  
-💼 LinkedIn: [[linkedin.com/in/deinname](https://www.linkedin.com/in/merlin-hellbach-47497024b) ] 
+📧 E-Mail: [merlin.hellbach@icloud.com](mailto:merlin.hellbach@icloud.com)  
+💼 LinkedIn: [[linkedin.com/in/merlin-hellbach](https://www.linkedin.com/in/merlin-hellbach-47497024b) ] 
  
 
 ---
