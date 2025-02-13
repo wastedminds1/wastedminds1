@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin [Dein Name]  
+# 👋 Hi, ich bin Merlin  
 ### 🚀 DevOps Engineer | Automation | Cloud | CI/CD  
 
 🔹 Leidenschaft für Infrastructure as Code (IaC), CI/CD und Cloud-Technologien  
@@ -37,5 +37,5 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deinusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deinusername&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wastedminds1&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wastedminds1&layout=compact&theme=tokyonight)  
