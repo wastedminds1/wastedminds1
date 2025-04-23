@@ -1,5 +1,5 @@
 # 👋 Hi, ich bin Merlin  
-### 🚀 DevOps Engineer | Automation | Cloud | CI/CD  
+### 🚀 Junior DevOps Engineer | Automation | Cloud | CI/CD  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7C537&width=600&lines=Hallo,+ich+bin+Merlin!;DevOps+Engineer+🚀;Cloud+Automation+☁;Infrastructure+as+Code+🔧)](https://github.com/wastedminds1)
 
