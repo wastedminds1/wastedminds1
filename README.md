@@ -26,14 +26,13 @@
 ---
 
 ## 📂 Mein Portfolio  
-🔹 **[Projekt 1: Kubernetes Cluster Setup](https://github.com/wastedminds1/kubernetes-cluster-setup)**  
+🔹 **[Projekt 1: AEGIS](https://github.com/wastedminds1/AEGIS)**  
+➡️ Cloud Infrastruktur Simulationsplattform für digitale Zwilinge 
+
+🔹 **[Projekt 2: Kubernetes Cluster Setup](https://github.com/wastedminds1/kubernetes-cluster-setup)**  
 ➡️ Automatisierte Bereitstellung eines Kubernetes-Clusters mit Terraform & Ansible  
 
-🔹 **[Projekt 2: CI/CD mit GitHub Actions](https://github.com/wastedminds1/cicd-github-actions)**  
-➡️ Pipeline für automatisierte Tests & Deployments mit GitHub Actions  
 
-🔹 **[Projekt 3: Monitoring mit Grafana & Prometheus](https://github.com/wastedminds1/grafana-prometheus-setup)**  
-➡️ Beispielkonfiguration für System-Monitoring mit Alerts  
 
 ---
 
