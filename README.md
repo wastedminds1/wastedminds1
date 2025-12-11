@@ -1,55 +1,85 @@
-# 👋 Hi, ich bin Merlin  
-### 🚀 Junior DevOps Engineer | Automation | Cloud | CI/CD  
+<!-- ⚡ CYBER NEON – ANIMATED GITHUB BIO -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7C537&width=600&lines=Hallo,+ich+bin+Merlin!;DevOps+Engineer+🚀;Cloud+Automation+☁;Infrastructure+as+Code+🔧)](https://github.com/wastedminds1)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00E7FF&center=true&vCenter=true&width=800&height=80&lines=Merlin+%E2%9A%A1+DevOps+Engineer;Automation+Architect+%7C+Cloud+Native+Builder;Welcome+to+the+Neon+Ops+Grid+%F0%9F%9A%80" />
+</p>
 
-🔹 Leidenschaft für Infrastructure as Code (IaC), CI/CD und Cloud-Technologien  
-🔹 Erfahrung mit Kubernetes, Docker, Terraform und Ansible  
-🔹 Fokus auf Automatisierung und Monitoring mit Grafana, Prometheus und ELK  
-
----
-
-## 🏆 GitHub Achievements  
-![Trophies](https://github-profile-trophy.vercel.app/?username=wastedminds1&theme=onedark)
+<p align="center">
+  <img src="https://media.tenor.com/Lg0b1Vq776gAAAAC/cyberpunk-synthwave.gif" width="800" />
+</p>
 
 ---
 
-## 🛠️ Tech-Stack  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+# <span style="color:#00eaff;">⚡ Über mich</span>
+
+Ich entwickle, automatisiere und betreibe Cloud-Infrastrukturen mit Fokus auf Skalierbarkeit, Zuverlässigkeit und Effizienz.  
+Durch Infrastructure as Code, Containerisierung und CI/CD-Pipelines entstehen robuste und reproduzierbare Systeme.
+
+🔥 Cloud Automation  
+🔥 Kubernetes & Container Platforms  
+🔥 IaC mit Terraform & Ansible  
+🔥 Monitoring: Grafana, Prometheus, Loki, ELK  
 
 ---
 
-## 📂 Mein Portfolio  
-🔹 **[Projekt 1: AEGIS](https://github.com/wastedminds1/AEGIS)**  
-➡️ Cloud Infrastruktur Simulationsplattform für digitale Zwilinge 
+# <span style="color:#ff00ff;">🏆 Achievements</span>
 
-🔹 **[Projekt 2: Kubernetes Cluster Setup](https://github.com/wastedminds1/kubernetes-cluster-setup)**  
-➡️ Automatisierte Bereitstellung eines Kubernetes-Clusters mit Terraform & Ansible  
-
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wastedminds1&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wastedminds1&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wastedminds1&layout=compact&theme=tokyonight)  
+# <span style="color:#00ff99;">🛠 Tech Stack</span>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wastedminds1&theme=react)
-
----
-
-## 📫 Kontakt  
-📧 E-Mail: [merlin.hellbach@icloud.com](mailto:merlin.hellbach@icloud.com)  
-💼 LinkedIn: [linkedin.com/in/merlin-hellbach](https://www.linkedin.com/in/merlin-hellbach-47497024b)  
-👀 Besucherzähler:  
-![Visitors](https://komarev.com/ghpvc/?username=wastedminds1&color=blue&style=flat-square)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,githubactions,grafana,prometheus&theme=dark" />
+</p>
 
 ---
 
-✨ **Let's Automate the Future! 🚀**
+# <span style="color:#00eaff;">📂 Projekte</span>
+
+### 🔹 **[AEGIS](https://github.com/wastedminds1/AEGIS)**  
+Cloud-Infrastruktur-Simulator für digitale Zwillinge – hochdynamische Ressourcenabbildung.
+
+### 🔹 **[Kubernetes Cluster Setup](https://github.com/wastedminds1/kubernetes-cluster-setup)**  
+Vollautomatisiertes Kubernetes-Provisioning mit Terraform, Ansible und modularen Konfigurationen.
+
+---
+
+# <span style="color:#ff00ff;">📊 GitHub Stats</span>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wastedminds1&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wastedminds1&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wastedminds1&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+# <span style="color:#00ffcc;">📫 Kontakt</span>
+
+📧 E-Mail: **merlin.hellbach@icloud.com**  
+💼 LinkedIn: **[linkedin.com/in/merlin-hellbach](https://www.linkedin.com/in/merlin-hellbach-47497024b)**  
+
+<p align="left">
+  Besucherzähler:  
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=wastedminds1&color=00eaff&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/7D8hZfPz7GMAAAAC/neon-lights-synthwave.gif" width="700"/>
+</p>
+
+<h2 align="center" style="color:#8A2BE2;">
+  🚀 Neon-automatisierte Infrastruktur. High-Fidelity Deployments. Zukunft im Cyber-Glow. ⚡
+</h2>
